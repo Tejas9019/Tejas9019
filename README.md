@@ -1,7 +1,8 @@
 <h1 align="center">Hello, I'm TEJAS PRAKASH D</h1>
 <h3 align="center">Explorer of trending techs and aspiree of Data Science</h3>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/89508089/215329295-ee23077a-dd29-4f59-bed9-dc232f104c7f.gif" width="700px" height="500px" /></p>
+https://github.com/Tejas9019/Tejas9019/assets/89508089/6e8b1175-481c-4e55-9b05-33f9763a7adf
+
 <h3 align="center">I'm a B.Tech IT student studying in Presidency University. Excited about Web, DevOps, Artificial Intelligence, Robotics, Data Science. Creative, Innovative and Detailed-Oriented in tech platforms.</h3>
 
 <h2> Languages </h2>
@@ -39,8 +40,3 @@
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-
-
-
-
