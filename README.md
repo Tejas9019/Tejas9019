@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm TEJAS PRAKASH D</h1>
 <h3 align="center">Explorer of trending techs and aspiree of Data Science</h3>
-
-https://github.com/Tejas9019/Tejas9019/assets/89508089/6e8b1175-481c-4e55-9b05-33f9763a7adf
+<p align='center'>
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlkZXdxMXRsamk0b205NHdpZ3d4Mm9xNm5jN3o5bDJiZzU1NGk1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fHzKCaOmYSjA4Imbtf/giphy.gif" width=400px height=400px></img></p>
 
 <h3 align="center">I'm a B.Tech IT student studying in Presidency University. Excited about Web, DevOps, Artificial Intelligence, Robotics, Data Science. Creative, Innovative and Detailed-Oriented in tech platforms.</h3>
 
